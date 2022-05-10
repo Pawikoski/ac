@@ -1,0 +1,190 @@
+Server CFG Path :  cfg/server_cfg.ini
+Entry List Path :  cfg/entry_list.ini
+Assetto Corsa Dedicated Server v1.15
+Protocol version: 202
+2022-04-19 21:27:48.9208239 +0200 CEST m=+0.010001900
+Num CPU: 12
+LOCAL IP 0: fe80::c406:4c8b:3370:4440%VirtualBox Host-Only Network
+LOCAL IP 1: fe80::39c0:6dad:3397:4dff%Ethernet
+LOCAL IP 2: 192.168.56.1
+LOCAL IP 3: 192.168.1.38
+Using cfg path:  cfg/server_cfg.ini
+Car list:
+_bmw_m3_e30_
+Client interval HZ: 18
+WARNING: pitstop window needs a valid range
+WARNING: RESULT_SCREEN_TIME was less of 30secs or not found, setting to default: 10secs
+WARNING: MAX_CONTACTS_PER_KM was 0 or not found, setting to default: 5
+AUTH_PLUGIN_ADDRESS 
+TRACK=magione
+CARS=["bmw_m3_e30"]
+Loading PRACTICE session
+SESSION: Practice
+TYPE=PRACTICE
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+Loading QUALIFY session
+SESSION: Qualify
+TYPE=QUALIFY
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+SESSION: Race
+TYPE=RACE
+TIME=0
+LAPS=5
+OPEN=1
+WAIT TIME=60
+
+DynamicTrack: first session, resetting grip
+Trying to load DRS zones from: content/tracks/magione/data/drs_zones.ini
+Loading ZONE_0 {0.401 0.676}
+Weather update. Ambient: 15.030802 Road: 13.533734 Graphics: 7_heavy_clouds
+Wind update. Speed: 0 Direction: 0
+CHECKSUM: system/data/surfaces.ini=41949b9f7045cad2af3f5eb951d170a9
+CHECKSUM: content/tracks/magione/data/surfaces.ini=6e128cc6cb7dab5caa3822f1143d5012
+CHECKSUM: content/tracks/magione/models.ini=d6788b3dd733adb57f4b5b0273f846d5
+ACD CHECKSUM:7770c53907d4161c63db9e7f9c97a96b
+Loading blacklist
+Opening entry list:  cfg/entry_list.ini
+Found car  CAR_0
+CAR: 0 bmw_m3_e30 (0) [ []]  []  Ballast: 0 kg
+CAR: 0 bmw_m3_e30 (0) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_1
+CAR: 1 bmw_m3_e30 (1) [ []]  []  Ballast: 0 kg
+CAR: 1 bmw_m3_e30 (1) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_2
+CAR: 2 bmw_m3_e30 (2) [ []]  []  Ballast: 0 kg
+CAR: 2 bmw_m3_e30 (2) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_3
+CAR: 3 bmw_m3_e30 (3) [ []]  []  Ballast: 0 kg
+CAR: 3 bmw_m3_e30 (3) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_4
+CAR: 4 bmw_m3_e30 (4) [ []]  []  Ballast: 0 kg
+CAR: 4 bmw_m3_e30 (4) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_5
+CAR: 5 bmw_m3_e30 (5) [ []]  []  Ballast: 0 kg
+CAR: 5 bmw_m3_e30 (5) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_6
+CAR: 6 bmw_m3_e30 (6) [ []]  []  Ballast: 0 kg
+CAR: 6 bmw_m3_e30 (6) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_7
+CAR: 7 bmw_m3_e30 (7) [ []]  []  Ballast: 0 kg
+CAR: 7 bmw_m3_e30 (7) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_8
+CAR: 8 bmw_m3_e30 (8) [ []]  []  Ballast: 0 kg
+CAR: 8 bmw_m3_e30 (8) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_9
+CAR: 9 bmw_m3_e30 (9) [ []]  []  Ballast: 0 kg
+CAR: 9 bmw_m3_e30 (9) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_10
+CAR: 10 bmw_m3_e30 (10) [ []]  []  Ballast: 0 kg
+CAR: 10 bmw_m3_e30 (10) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_11
+CAR: 11 bmw_m3_e30 (11) [ []]  []  Ballast: 0 kg
+CAR: 11 bmw_m3_e30 (11) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_12
+CAR: 12 bmw_m3_e30 (12) [ []]  []  Ballast: 0 kg
+CAR: 12 bmw_m3_e30 (12) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_13
+CAR: 13 bmw_m3_e30 (13) [ []]  []  Ballast: 0 kg
+CAR: 13 bmw_m3_e30 (13) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_14
+CAR: 14 bmw_m3_e30 (14) [ []]  []  Ballast: 0 kg
+CAR: 14 bmw_m3_e30 (14) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_15
+CAR: 15 bmw_m3_e30 (15) [ []]  []  Ballast: 0 kg
+CAR: 15 bmw_m3_e30 (15) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_16
+CAR: 16 bmw_m3_e30 (16) [ []]  []  Ballast: 0 kg
+CAR: 16 bmw_m3_e30 (16) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_17
+CAR: 17 bmw_m3_e30 (17) [ []]  []  Ballast: 0 kg
+CAR: 17 bmw_m3_e30 (17) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Random seed: 3979569871
+Starting TCP listener at port 9600
+Session has 0 laps, will not save json
+NextSession
+SESSION: Practice
+TYPE=PRACTICE
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+DynamicTrack: first session, resetting grip
+Weather update. Ambient: 18.943796 Road: 25.28457 Graphics: 3_clear
+Wind update. Speed: 0 Direction: 0
+No laptime available, use car index for grids
+POS: 1, SessionID:0
+POS: 2, SessionID:1
+POS: 3, SessionID:2
+POS: 4, SessionID:3
+Starting HTTP server on port  8081
+POS: 5, SessionID:4
+POS: 6, SessionID:5
+POS: 7, SessionID:6
+POS: 8, SessionID:7
+POS: 9, SessionID:8
+POS: 10, SessionID:9
+POS: 11, SessionID:10
+POS: 12, SessionID:11
+POS: 13, SessionID:12
+POS: 14, SessionID:13
+POS: 15, SessionID:14
+POS: 16, SessionID:15
+POS: 17, SessionID:16
+POS: 18, SessionID:17
+SENDING session name : Practice
+SENDING session index : 0
+SENDING session type : 1
+SENDING session time : 10
+SENDING session laps : 0
+Server started
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+CONNECTION TO LOBBY FAILED, ATTEMPT NUMBER  1
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+CONNECTION TO LOBBY FAILED, ATTEMPT NUMBER  2
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+CONNECTION TO LOBBY FAILED, ATTEMPT NUMBER  3
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+CONNECTION TO LOBBY FAILED, ATTEMPT NUMBER  4
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+CONNECTION TO LOBBY FAILED, ATTEMPT NUMBER  5
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=AC_Server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: ERROR,INVALID SERVER,CHECK YOUR PORT FORWARDING SETTINGS
+LOBBY COULD NOT BE RACHED, SHUTTING SERVER DOWN

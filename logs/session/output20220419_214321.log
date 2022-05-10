@@ -1,0 +1,347 @@
+Server CFG Path :  cfg/server_cfg.ini
+Entry List Path :  cfg/entry_list.ini
+Assetto Corsa Dedicated Server v1.15
+Protocol version: 202
+2022-04-19 21:43:21.3485299 +0200 CEST m=+0.009001700
+Num CPU: 12
+LOCAL IP 0: fe80::c406:4c8b:3370:4440%VirtualBox Host-Only Network
+LOCAL IP 1: fe80::39c0:6dad:3397:4dff%Ethernet
+LOCAL IP 2: 192.168.56.1
+LOCAL IP 3: 192.168.1.38
+Using cfg path:  cfg/server_cfg.ini
+Car list:
+_bmw_m3_e30_
+Client interval HZ: 18
+WARNING: pitstop window needs a valid range
+WARNING: MAX_CONTACTS_PER_KM was 0 or not found, setting to default: 5
+AUTH_PLUGIN_ADDRESS 
+TRACK=magione
+CARS=["bmw_m3_e30"]
+Loading PRACTICE session
+SESSION: Practice
+TYPE=PRACTICE
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+Loading QUALIFY session
+SESSION: Qualify
+TYPE=QUALIFY
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+SESSION: Race
+TYPE=RACE
+TIME=0
+LAPS=5
+OPEN=1
+WAIT TIME=60
+
+DynamicTrack: first session, resetting grip
+Trying to load DRS zones from: content/tracks/magione/data/drs_zones.ini
+Loading ZONE_0 {0.401 0.676}
+Weather update. Ambient: 14.965925 Road: 13.68201 Graphics: 7_heavy_clouds
+Wind update. Speed: 0 Direction: 0
+CHECKSUM: system/data/surfaces.ini=41949b9f7045cad2af3f5eb951d170a9
+CHECKSUM: content/tracks/magione/data/surfaces.ini=6e128cc6cb7dab5caa3822f1143d5012
+CHECKSUM: content/tracks/magione/models.ini=d6788b3dd733adb57f4b5b0273f846d5
+ACD CHECKSUM:7770c53907d4161c63db9e7f9c97a96b
+Loading blacklist
+Opening entry list:  cfg/entry_list.ini
+Found car  CAR_0
+CAR: 0 bmw_m3_e30 (0) [ []]  []  Ballast: 0 kg
+CAR: 0 bmw_m3_e30 (0) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_1
+CAR: 1 bmw_m3_e30 (1) [ []]  []  Ballast: 0 kg
+CAR: 1 bmw_m3_e30 (1) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_2
+CAR: 2 bmw_m3_e30 (2) [ []]  []  Ballast: 0 kg
+CAR: 2 bmw_m3_e30 (2) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_3
+CAR: 3 bmw_m3_e30 (3) [ []]  []  Ballast: 0 kg
+CAR: 3 bmw_m3_e30 (3) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_4
+CAR: 4 bmw_m3_e30 (4) [ []]  []  Ballast: 0 kg
+CAR: 4 bmw_m3_e30 (4) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_5
+CAR: 5 bmw_m3_e30 (5) [ []]  []  Ballast: 0 kg
+CAR: 5 bmw_m3_e30 (5) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_6
+CAR: 6 bmw_m3_e30 (6) [ []]  []  Ballast: 0 kg
+CAR: 6 bmw_m3_e30 (6) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_7
+CAR: 7 bmw_m3_e30 (7) [ []]  []  Ballast: 0 kg
+CAR: 7 bmw_m3_e30 (7) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_8
+CAR: 8 bmw_m3_e30 (8) [ []]  []  Ballast: 0 kg
+CAR: 8 bmw_m3_e30 (8) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_9
+CAR: 9 bmw_m3_e30 (9) [ []]  []  Ballast: 0 kg
+CAR: 9 bmw_m3_e30 (9) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_10
+CAR: 10 bmw_m3_e30 (10) [ []]  []  Ballast: 0 kg
+CAR: 10 bmw_m3_e30 (10) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_11
+CAR: 11 bmw_m3_e30 (11) [ []]  []  Ballast: 0 kg
+CAR: 11 bmw_m3_e30 (11) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_12
+CAR: 12 bmw_m3_e30 (12) [ []]  []  Ballast: 0 kg
+CAR: 12 bmw_m3_e30 (12) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_13
+CAR: 13 bmw_m3_e30 (13) [ []]  []  Ballast: 0 kg
+CAR: 13 bmw_m3_e30 (13) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_14
+CAR: 14 bmw_m3_e30 (14) [ []]  []  Ballast: 0 kg
+CAR: 14 bmw_m3_e30 (14) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_15
+CAR: 15 bmw_m3_e30 (15) [ []]  []  Ballast: 0 kg
+CAR: 15 bmw_m3_e30 (15) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_16
+CAR: 16 bmw_m3_e30 (16) [ []]  []  Ballast: 0 kg
+CAR: 16 bmw_m3_e30 (16) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Found car  CAR_17
+CAR: 17 bmw_m3_e30 (17) [ []]  []  Ballast: 0 kg
+CAR: 17 bmw_m3_e30 (17) [ []]  []  Restrictor: 0
+open setups/bmw_m3_e30.ini: Nie można odnaleźć określonego pliku.
+Random seed: 2678872445
+Starting TCP listener at port 9600
+Session has 0 laps, will not save json
+NextSession
+SESSION: Practice
+TYPE=PRACTICE
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+DynamicTrack: first session, resetting grip
+Weather update. Ambient: 18.988773 Road: 24.682878 Graphics: 3_clear
+Wind update. Speed: 0 Direction: 0
+No laptime available, use car index for grids
+POS: 1, SessionID:0
+POS: 2, SessionID:1
+POS: 3, SessionID:2
+POS: 4, SessionID:3
+POS: 5, SessionID:4
+POS: 6, SessionID:5
+POS: 7, SessionID:6
+POS: 8, SessionID:7
+POS: 9, SessionID:8
+POS: 10, SessionID:9
+POS: 11, SessionID:10
+POS: 12, SessionID:11
+POS: 13, SessionID:12
+POS: 14, SessionID:13
+POS: 15, SessionID:14
+POS: 16, SessionID:15
+POS: 17, SessionID:16
+POS: 18, SessionID:17
+Starting HTTP server on port  8081
+SENDING session name : Practice
+SENDING session index : 0
+SENDING session type : 1
+SENDING session time : 10
+SENDING session laps : 0
+Server started
+Registering to AC central server
+CALLING http://93.57.10.21/lobby.ashx/register?name=Mumin_server&port=9600&tcp_port=9600&max_clients=18&track=magione&cars=bmw_m3_e30&timeofday=48&sessions=1,2,3&durations=600,600,5&password=0&version=202&pickup=1&autoclutch=0&abs=1&tc=1&stability=0&legal_tyres=SV&fixed_setup=0&timed=0&extra=0&pit=0&inverted=0
+RESPONSE: OK,0,8081
+CONNECTED TO LOBBY
+RESTARTING FROM SESSION 0
+Session has 0 laps, will not save json
+NextSession
+SESSION: Practice
+TYPE=PRACTICE
+TIME=10
+LAPS=0
+OPEN=1
+WAIT TIME=0
+
+DynamicTrack: first session, resetting grip
+Weather update. Ambient: 14.243428 Road: 12.381405 Graphics: 7_heavy_clouds
+Wind update. Speed: 0 Direction: 0
+SENDING session name : Practice
+SENDING session index : 0
+SENDING session type : 1
+SENDING session time : 10
+SENDING session laps : 0
+SENDING http://93.57.10.21/lobby.ashx/ping?session=1&timeleft=600&port=9600&clients=0&track=magione&pickup=1
+OK
+PAGE: /JSON|76561198170592990
+Serve JSON took 38 ms
+PAGE: /JSON|76561199251996521
+Serve JSON took 44 ms
+PAGE: /INFO
+REQ
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 596 [na na] false 0 <nil> false true 9600 false false false 0}
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 596 [na na] false 0 <nil> false true 9600 false false false 0}
+PAGE: /JSON|76561198271312186
+Serve JSON took 50 ms
+PAGE: /JSON|76561198965687652
+Serve JSON took 5 ms
+PAGE: /JSON|76561198011244799
+Serve JSON took 2 ms
+PAGE: /JSON|76561198734079078
+Serve JSON took 25 ms
+PAGE: /JSON|76561198931218212
+Serve JSON took 26 ms
+PAGE: /JSON|76561199228495033
+Serve JSON took 35 ms
+PAGE: /JSON|76561198130385465
+Serve JSON took 50 ms
+PAGE: /JSON|76561199132308252
+Serve JSON took 31 ms
+PAGE: /JSON|76561199267896231
+Serve JSON took 42 ms
+PAGE: /JSON|76561198080608881
+Serve JSON took 11 ms
+PAGE: /JSON|76561198036987731
+Serve JSON took 8 ms
+PAGE: /JSON|76561199139747946
+Serve JSON took 49 ms
+PAGE: /JSON|76561198400455328
+Serve JSON took 12 ms
+PAGE: /JSON|76561198003436173
+Serve JSON took 39 ms
+PAGE: /JSON|76561198251053120
+Serve JSON took 30 ms
+PAGE: /JSON|76561198254637144
+Serve JSON took 36 ms
+PAGE: /JSON|76561198992855166
+Serve JSON took 34 ms
+PAGE: /JSON|76561198859356205
+Serve JSON took 18 ms
+PAGE: /JSON|76561198392048146
+Serve JSON took 2 ms
+PAGE: /JSON|76561198321634798
+Serve JSON took 33 ms
+PAGE: /JSON|76561198852294872
+Serve JSON took 44 ms
+PAGE: /JSON|76561198892320064
+Serve JSON took 7 ms
+PAGE: /JSON|76561199128741376
+Serve JSON took 38 ms
+PAGE: /JSON|76561198157204399
+Serve JSON took 13 ms
+PAGE: /JSON|76561199042133953
+Serve JSON took 26 ms
+PAGE: /JSON|76561198838134631
+Serve JSON took 37 ms
+PAGE: /JSON|76561198365142748
+Serve JSON took 16 ms
+PAGE: /JSON|76561198271601734
+Serve JSON took 24 ms
+PAGE: /JSON|76561199139376964
+Serve JSON took 23 ms
+PAGE: /JSON|76561198006440450
+Serve JSON took 18 ms
+PAGE: /JSON|76561198105955338
+Serve JSON took 22 ms
+PAGE: /JSON|76561198127821297
+Serve JSON took 1 ms
+PAGE: /JSON|76561198204212065
+Serve JSON took 25 ms
+PAGE: /JSON|76561199033632844
+Serve JSON took 34 ms
+PAGE: /JSON|76561198400990873
+Serve JSON took 37 ms
+PAGE: /JSON|76561199104829065
+Serve JSON took 35 ms
+PAGE: /JSON|76561198387600546
+Serve JSON took 13 ms
+PAGE: /JSON|76561198325724219
+Serve JSON took 43 ms
+PAGE: /JSON|76561198814946441
+Serve JSON took 21 ms
+PAGE: /JSON|76561199166179528
+Serve JSON took 14 ms
+PAGE: /JSON|76561198417011873
+Serve JSON took 25 ms
+PAGE: /JSON|76561198127208212
+Serve JSON took 2 ms
+PAGE: /JSON|76561198970489768
+Serve JSON took 47 ms
+PAGE: /JSON|76561198851875312
+Serve JSON took 43 ms
+PAGE: /JSON|76561198381322748
+Serve JSON took 1 ms
+PAGE: /INFO
+REQ
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 498 [na na] false 0 <nil> false true 9600 false false false 0}
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 498 [na na] false 0 <nil> false true 9600 false false false 0}
+PAGE: /JSON|76561198271312186
+Serve JSON took 44 ms
+PAGE: /JSON|76561198379920267
+Serve JSON took 35 ms
+PAGE: /INFO
+REQ
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 496 [na na] false 0 <nil> false true 9600 false false false 0}
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 496 [na na] false 0 <nil> false true 9600 false false false 0}
+PAGE: /JSON|76561198173650535
+Serve JSON took 17 ms
+PAGE: /JSON|76561199114085866
+Serve JSON took 36 ms
+PAGE: /JSON|76561198811943215
+Serve JSON took 7 ms
+PAGE: /JSON|76561198271312186
+Serve JSON took 12 ms
+PAGE: /JSON|76561198404595638
+Serve JSON took 23 ms
+PAGE: /JSON|76561199206855005
+Serve JSON took 17 ms
+PAGE: /JSON|76561199004600050
+Serve JSON took 42 ms
+PAGE: /INFO
+REQ
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 488 [na na] false 0 <nil> false true 9600 false false false 0}
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 488 [na na] false 0 <nil> false true 9600 false false false 0}
+PAGE: /JSON|76561198271312186
+Serve JSON took 39 ms
+PAGE: /JSON|76561198892742324
+Serve JSON took 42 ms
+PAGE: /JSON|76561198121516019
+Serve JSON took 29 ms
+PAGE: /JSON|76561198382048262
+Serve JSON took 27 ms
+PAGE: /JSON|76561199178574823
+Serve JSON took 47 ms
+PAGE: /INFO
+REQ
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 478 [na na] false 0 <nil> false true 9600 false false false 0}
+{ 9600 8081 Mumin_server 0 18 magione [bmw_m3_e30] 48 0 [1 2 3] [10 10 5] 478 [na na] false 0 <nil> false true 9600 false false false 0}
+PAGE: /JSON|76561198271312186
+Serve JSON took 33 ms
+PAGE: /JSON|76561198201651611
+Serve JSON took 10 ms
+PAGE: /JSON|76561198301920140
+Serve JSON took 21 ms
+PAGE: /JSON|76561198141341861
+Serve JSON took 31 ms
+PAGE: /JSON|76561198129134435
+Serve JSON took 33 ms
+PAGE: /JSON|76561199187034617
+Serve JSON took 4 ms
+PAGE: /JSON|76561199001304174
+Serve JSON took 34 ms
+PAGE: /JSON|76561198821804523
+Serve JSON took 37 ms
